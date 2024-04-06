@@ -5,8 +5,18 @@ import java.io.FileNotFoundException;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
+/**
+ * Clase principal que simula un sistema de atención de emergencias en un hospital.
+ * Permite al usuario elegir entre dos implementaciones de Priority Queue para manejar la lista de pacientes.
+ */
 public class SistemaEmergencias {
 
+    /**
+     * Método principal donde se ejecuta el programa.
+     * Permite al usuario seleccionar la implementación de Priority Queue a utilizar.
+     * Lee la lista de pacientes desde un archivo y los maneja según la opción seleccionada.
+     * @param args Los argumentos de la línea de comandos (no se utilizan en este programa).
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
