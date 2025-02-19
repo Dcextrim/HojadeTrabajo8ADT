@@ -144,9 +144,13 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Dulce Ambrosio - amb231140@uvg.edu.gt<br />
+Daniel Chet - che231177@uvg.edu.gt <br />
+Javier Linares - lin231135@uvg.edu.gt <br />
+Cristian Túnchez - tun231359@uvg.edu.gt
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[Documento Word](https://uvggt-my.sharepoint.com/:w:/g/personal/tun231359_uvg_edu_gt/EbokD_-FU_tPoVcGdR8vmdUBwf_j366Uue_zd51q1rkJRw?e=ECLRwl "Enlace a Office365")   
+[Repositorio en GitHub](https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software.git "Enlace a GitHub")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
