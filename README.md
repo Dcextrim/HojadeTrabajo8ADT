@@ -149,8 +149,8 @@ Daniel Chet - che231177@uvg.edu.gt <br />
 Javier Linares - lin231135@uvg.edu.gt <br />
 Cristian Túnchez - tun231359@uvg.edu.gt
 
-[Documento Word](https://uvggt-my.sharepoint.com/:w:/g/personal/tun231359_uvg_edu_gt/EbokD_-FU_tPoVcGdR8vmdUBwf_j366Uue_zd51q1rkJRw?e=ECLRwl "Enlace a Office365")   
-[Repositorio en GitHub](https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software.git "Enlace a GitHub")
+Documento Word: (https://uvggt-my.sharepoint.com/:w:/g/personal/tun231359_uvg_edu_gt/EbokD_-FU_tPoVcGdR8vmdUBwf_j366Uue_zd51q1rkJRw?e=ECLRwl "Enlace a Office365")   
+Repositorio en GitHub: (https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software.git "Enlace a GitHub")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
