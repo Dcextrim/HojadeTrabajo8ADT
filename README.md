@@ -30,11 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Proyecto Ingenieria de Software</h3>
 
   <p align="center">
     Universidad del Valle de Guatemala  <br />
@@ -49,7 +49,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -66,7 +66,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Colaboradores">Colaboradores</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -118,9 +118,14 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
+<!-- Colaboradores -->
+## Colaboradores
+<ul>
+  <li>Dulce Ambrosio (231143)</li>
+  <li>Daniel Chet (231177)</li>
+  <li>Javier Linares (231135)</li>
+  <li>Cristian Túnchez (231359)</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
