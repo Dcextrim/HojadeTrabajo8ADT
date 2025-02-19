@@ -55,9 +55,7 @@
       <a href="#Acerca-del-Proyecto">Acerca del Proyecto</a>
     </li>
     <li><a href="#Colaboradores">Colaboradores</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contactos">Contactos</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -85,16 +83,6 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<!-- LICENSE -->
-## License
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACTOS -->
 ## Contactos
 
@@ -105,14 +93,6 @@ Cristian Túnchez - tun231359@uvg.edu.gt
 
 [Documento Word](https://uvggt-my.sharepoint.com/:w:/g/personal/tun231359_uvg_edu_gt/EbokD_-FU_tPoVcGdR8vmdUBwf_j366Uue_zd51q1rkJRw?e=ECLRwl "Enlace a Office365")   
 [Repositorio en GitHub](https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software.git "Enlace a GitHub")
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
