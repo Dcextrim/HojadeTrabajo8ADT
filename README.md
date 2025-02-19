@@ -67,7 +67,7 @@
 
 <img src="images/Logo.png" alt="Logo" width="80" height="80">
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Este proyecto propone el desarrollo de un sistema integral de gestión de operaciones diseñado específicamente para pequeñas y medianas empresas de los sectores comercial y de servicios, como cafeterías, restaurantes y comercios minoristas. La necesidad de esta solución radica en la falta de integración entre los sistemas de ventas, inventario y administración, lo que genera ineficiencias operativas, incrementa los costos y obstaculiza la toma de decisiones estratégicas. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
