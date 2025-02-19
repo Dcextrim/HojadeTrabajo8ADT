@@ -52,7 +52,7 @@
   <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Acerca-del-Proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -75,8 +75,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Acerca del Proyecto -->
+## Acerca del Proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -128,8 +128,6 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
 
 
 
