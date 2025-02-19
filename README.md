@@ -68,7 +68,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#Colaboradores">Colaboradores</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contactos">Contactos</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -141,8 +141,8 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTACTOS -->
+## Contactos
 
 Dulce Ambrosio - amb231140@uvg.edu.gt<br />
 Daniel Chet - che231177@uvg.edu.gt <br />
