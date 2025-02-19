@@ -37,10 +37,10 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    Universidad del Valle de Guatemala  
-    Facultad de Ingeniería  
-    Departamento de Ciencias de la Computación  
-    CC3090 - Ingeniería de Software 1 
+    Universidad del Valle de Guatemala  <br />
+    Facultad de Ingeniería  <br />
+    Departamento de Ciencias de la Computación  <br />
+    CC3090 - Ingeniería de Software 1 <br />
     <br />
   </p>
 </div>
